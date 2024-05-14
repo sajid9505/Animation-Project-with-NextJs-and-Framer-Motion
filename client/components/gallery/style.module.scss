@@ -15,7 +15,9 @@
         height: 30vw;
         width: 25vw;
         position: fixed;
-        top: 0;
+        top: 50%; /* Center vertically */
+        left: 50%; /* Center horizontally */
+        transform: translate(-50%, -50%); /* Adjust to center perfectly */
         border-radius: 1.5vw;
         overflow: hidden;
         img{
