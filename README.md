@@ -1,0 +1,1 @@
+# Animation-Project-with-NextJs-and-Framer-Motion
