@@ -6,7 +6,7 @@ Welcome to the Animated Photo Gallery project! This is a hobby project built to 
 
 ## Demo
 
-Check out the live demo [Demo]([#](https://nepal2023-khandaker-sajid-mahmuds-projects.vercel.app/))
+Check out the live demo [Demo](https://nepal2023-khandaker-sajid-mahmuds-projects.vercel.app/)
 
 ## Features
 
